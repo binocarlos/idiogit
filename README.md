@@ -47,3 +47,10 @@ Sync the master branch to the gh-pages branch
 ```
 git push origin master:gh-pages
 ```
+
+### Clone specific branch
+Clone a specific branch to a folder
+
+```
+git clone user@git-server:project_name.git -b branch_name /some/folder
+```
