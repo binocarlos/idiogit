@@ -1,0 +1,4 @@
+idiogit
+=======
+
+Useful git snippets
